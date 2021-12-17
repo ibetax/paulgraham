@@ -14,4 +14,6 @@
 
 保罗（Paul）是书籍《[On Lisp](http://www.amazon.com/exec/obidos/ISBN=0130305529)》(Prentice Hall，1993)、《ANSI Common Lisp》(Prentice Hall，1995)和《Hackers & Painters》(o’reilly，2004)的作者。他拥有康奈尔大学的 AB 学位和哈佛大学的计算机科学博士学位，并在罗德岛设计学院和佛罗伦萨的布雷拉美术学院学习绘画。
 
-> 《Hackers & Painters》中文版《[黑客与画家](https://book.douban.com/subject/6021440/)》，由阮一峰翻译，人民邮电出版社 2011 年出版。
+> 1、《Hackers & Painters》中文版《[黑客与画家](https://book.douban.com/subject/6021440/)》，由阮一峰翻译，人民邮电出版社 2011 年出版；
+>
+> 2、1986 年获得康奈尔大学的哲学学士学位；
