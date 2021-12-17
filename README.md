@@ -10,7 +10,7 @@
 
 2005 年，他和杰西卡·利文斯顿（Jessica Livingston），罗伯特·莫里斯（Robert Morris），以及特雷弗·布莱克韦尔（Trevor Blackwell）创办了 [Y Combinator](http://ycombinator.com/)，这是第一个新型的创业孵化器。自2005年以来，Y Combinator 已经资助了超过 2000 家创业公司，包括 Airbnb、 Dropbox、 Stripe 和 Reddit。
 
-2019年，他出版了一本新的 Lisp 语言书，取名为 [Bel](http://paulgraham.com/bel.html)。
+2019年，他发布了新的 Lisp 方言： [Bel](http://paulgraham.com/bel.html)。
 
 保罗（Paul）是书籍《[On Lisp](http://www.amazon.com/exec/obidos/ISBN=0130305529)》(Prentice Hall，1993)、《ANSI Common Lisp》(Prentice Hall，1995)和《Hackers & Painters》(o’reilly，2004)的作者。他拥有康奈尔大学的 AB 学位和哈佛大学的计算机科学博士学位，并在罗德岛设计学院和佛罗伦萨的布雷拉美术学院学习绘画。
 
